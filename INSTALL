@@ -1,0 +1,9 @@
+Building 金 Jīn
+
+See doc/readme-qt.rst for instructions on building Jin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of 金 Jīn.
+
+See doc/build-*.txt for instructions on building Jind,
+the intended-for-services, no-graphical-interface, reference
+implementation of 金 Jīn.
