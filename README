@@ -1,2 +1,7 @@
-rpc port: 23098
-net port: 23099
+rpcport=23098
+port=23099
+addnode=80.233.175.26
+addnode=144.76.237.39
+addnode=94.175.27.83
+addnode=185.128.41.157
+addnode=107.190.42.60
