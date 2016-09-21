@@ -1,7 +1,13 @@
 rpcport=23098
 port=23099
-addnode=80.233.175.26
 addnode=144.76.237.39
-addnode=94.175.27.83
 addnode=185.128.41.157
 addnode=107.190.42.60
+addnode=46.127.57.167
+addnode=80.243.172.29
+addnode=91.241.174.7
+addnode=80.233.175.26
+addnode=109.91.55.33
+addnode=69.157.157.114
+addnode=94.175.27.83
+addnode=173.199.65.45
